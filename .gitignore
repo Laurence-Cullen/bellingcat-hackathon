@@ -1,0 +1,9 @@
+.idea
+judgement_pdfs
+.env
+__pycache__
+embeddings
+similarities
+.space
+
+.DS_Store
